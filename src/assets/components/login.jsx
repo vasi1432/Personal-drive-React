@@ -12,7 +12,7 @@ function Login() {
       <div className="login-container">
         <Container>
           <div className="login-poster">
-            <img src="src\assets\images\poster.png" alt="" />
+            <img src="\images\poster.png" alt="" />
           </div>
         </Container>
 

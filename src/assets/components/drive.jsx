@@ -8,7 +8,7 @@ function Drive() {
       <div className="drive-section1">
         <div className="drive-section1-part1">
           <img
-            src="src\assets\images\drive-section1-part1.png"
+            src="\images\drive-section1-part1.png"
             className="img-responsive"
             alt=""
           />
@@ -44,7 +44,7 @@ function Drive() {
         <div className="drive-section2-part2">
           <h2>Get Directions</h2>
           <img
-            src="src\assets\images\drive-section2-part2.png"
+            src="\images\drive-section2-part2.png"
             className="img-responsive"
             alt=""
           />

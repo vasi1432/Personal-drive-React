@@ -7,7 +7,7 @@ function Header() {
   return (
     <Navbar collapseOnSelect expand="lg" bg="black" variant="dark">
       <Navbar.Brand href="#home">
-        <img src="src\assets\images\logo.png" alt="" />
+        <img src="\images\logo.png" alt="" />
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav" style={{ gap: "0px" }}>
@@ -21,7 +21,7 @@ function Header() {
           <Nav.Link href="Drive">Drive with us</Nav.Link>
           <Nav.Link href="SAFETY">SAFETY</Nav.Link>
           <Nav.Link href="pricing">
-            <img src="src\assets\images\globe.png" alt="" /> EN
+            <img src="\images\globe.png" alt="" /> EN
           </Nav.Link>
 
           <Nav className="flex">

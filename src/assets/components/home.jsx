@@ -24,15 +24,15 @@ function HomePage() {
             </div>
             <p>Download our app from Applestore and Playstore</p>
             <div className="flex">
-              <img src="src\assets\images\section4-left-app.png" alt="" />
-              <img src="src\assets\images\section4-left-gplay.png" alt="" />
+              <img src="\images\section4-left-app.png" alt="" />
+              <img src="\images\section4-left-gplay.png" alt="" />
             </div>
           </div>
           <div className="section1-right">
             <Container>
               {" "}
               <img
-                src="src\assets\images\home-section1 (3).png"
+                src="\images\home-section1 (3).png"
                 className="img-responsive"
                 alt=""
               />
@@ -41,7 +41,7 @@ function HomePage() {
         </section>
         <section className="section2">
           <img
-            src="src\assets\images\home-section2.png"
+            src="\images\home-section2.png"
             className="img-responsive"
             alt=""
           />
@@ -57,7 +57,7 @@ function HomePage() {
           <div className="section4-top">
             <div className="section4-left">
               <img
-                src="src\assets\images\home-section4.png"
+                src="\images\home-section4.png"
                 className="img-responsive"
                 alt=""
               />

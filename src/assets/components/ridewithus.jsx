@@ -13,7 +13,7 @@ function RideWithUs() {
       <div className="ride-section2">
         <div className="section2-part1">
           <img
-            src="src\assets\images\ride-section1.png"
+            src="\images\ride-section1.png"
             className="img-responsive"
             alt=""
           />
@@ -30,7 +30,7 @@ function RideWithUs() {
       <div className="ride-section3">
         <div className="card">
           <img
-            src="src\assets\images\ride-section3.png"
+            src="\images\ride-section3.png"
             className="img-responsive"
             alt=""
           />
@@ -45,7 +45,7 @@ function RideWithUs() {
         </div>
         <div className="card">
           <img
-            src="src\assets\images\ride-section3.png"
+            src="\images\ride-section3.png"
             className="img-responsive"
             alt=""
           />
@@ -60,7 +60,7 @@ function RideWithUs() {
         </div>
         <div className="card">
           <img
-            src="src\assets\images\ride-section3.png"
+            src="\images\ride-section3.png"
             className="img-responsive"
             alt=""
           />
@@ -75,7 +75,7 @@ function RideWithUs() {
         </div>
         <div className="card">
           <img
-            src="src\assets\images\ride-section3.png"
+            src="\images\ride-section3.png"
             className="img-responsive"
             alt=""
           />
@@ -90,7 +90,7 @@ function RideWithUs() {
         </div>
         <div className="card">
           <img
-            src="src\assets\images\ride-section3.png"
+            src="\images\ride-section3.png"
             className="img-responsive"
             alt=""
           />
@@ -105,7 +105,7 @@ function RideWithUs() {
         </div>
         <div className="card">
           <img
-            src="src\assets\images\ride-section3.png"
+            src="\images\ride-section3.png"
             className="img-responsive"
             alt=""
           />
@@ -120,7 +120,7 @@ function RideWithUs() {
         </div>
         <div className="card">
           <img
-            src="src\assets\images\ride-section3.png"
+            src="\images\ride-section3.png"
             className="img-responsive"
             alt=""
           />
@@ -135,7 +135,7 @@ function RideWithUs() {
         </div>
         <div className="card">
           <img
-            src="src\assets\images\ride-section3.png"
+            src="\images\ride-section3.png"
             className="img-responsive"
             alt=""
           />
@@ -150,7 +150,7 @@ function RideWithUs() {
         </div>
         <div className="card">
           <img
-            src="src\assets\images\ride-section3.png"
+            src="\images\ride-section3.png"
             className="img-responsive"
             alt=""
           />
@@ -165,7 +165,7 @@ function RideWithUs() {
         </div>
         <div className="card">
           <img
-            src="src\assets\images\ride-section3.png"
+            src="\images\ride-section3.png"
             className="img-responsive"
             alt=""
           />
@@ -180,7 +180,7 @@ function RideWithUs() {
         </div>
         <div className="card">
           <img
-            src="src\assets\images\ride-section3.png"
+            src="\images\ride-section3.png"
             className="img-responsive"
             alt=""
           />
@@ -195,7 +195,7 @@ function RideWithUs() {
         </div>
         <div className="card">
           <img
-            src="src\assets\images\ride-section3.png"
+            src="\images\ride-section3.png"
             className="img-responsive"
             alt=""
           />

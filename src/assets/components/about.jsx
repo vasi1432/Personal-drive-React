@@ -7,7 +7,7 @@ function About() {
       <Header></Header>
       <section className="about-section1">
         <img
-          src="src\assets\images\about-section1.png"
+          src="\images\about-section1.png"
           className="img-responsive"
           alt=""
         />
@@ -33,7 +33,7 @@ function About() {
 
         <div className="about-part3">
           <img
-            src="src\assets\images\about-section2.png"
+            src="\images\about-section2.png"
             className="img-responsive"
             alt=""
           />
@@ -63,7 +63,7 @@ function About() {
             PageMaker including versions of Lorem Ipsum.
           </p>
           <img
-            src="src\assets\images\about-section2.png"
+            src="\images\about-section2.png"
             className="img-responsive"
             alt=""
           />
@@ -71,7 +71,7 @@ function About() {
 
         <div className="about-part3">
           <img
-            src="src\assets\images\about-section2.png"
+            src="\images\about-section2.png"
             className="img-responsive"
             alt=""
           />

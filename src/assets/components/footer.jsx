@@ -7,7 +7,7 @@ function Footer() {
     <div className="contain">
       <div className="content-left">
         <div>
-          <img src="src\assets\images\logo.png" alt="" />
+          <img src="\images\logo.png" alt="" />
         </div>
 
         <Nav.Link href="home">Home</Nav.Link>
@@ -16,7 +16,7 @@ function Footer() {
         <Nav.Link href="Drive">Drive with us</Nav.Link>
         <Nav.Link href="SAFETY">SAFETY</Nav.Link>
         <Nav.Link href="#pricing">
-          <img src="src\assets\images\globe.png" alt="" /> EN
+          <img src="\images\globe.png" alt="" /> EN
         </Nav.Link>
       </div>
       <div className="content-right">
@@ -25,11 +25,11 @@ function Footer() {
           <input type="text" placeholder="Enter your email" />
         </div>
         <div className="footer-icons">
-          <img src="src\assets\images\facebook.png" alt="" />
-          <img src="src\assets\images\twitter.png" alt="" />
-          <img src="src\assets\images\instagram.png" alt="" />
-          <img src="src\assets\images\linkedin.png" alt="" />
-          <img src="src\assets\images\youtube.png" alt="" />
+          <img src="\images\facebook.png" alt="" />
+          <img src="\images\twitter.png" alt="" />
+          <img src="\images\instagram.png" alt="" />
+          <img src="\images\linkedin.png" alt="" />
+          <img src="\images\youtube.png" alt="" />
         </div>
       </div>
     </div>

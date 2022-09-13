@@ -24,7 +24,7 @@ function Safety() {
           </div>
           <div className="safety-section1-part2">
             <img
-              src="src\assets\images\safety-section1-part-2.png"
+              src="\images\safety-section1-part-2.png"
               className="img-responsive"
               alt=""
             />
@@ -36,7 +36,7 @@ function Safety() {
         <div className="safety-section3">
           <div className="safety-section3-part1">
             <img
-              src="src\assets\images\safety-injection.png"
+              src="\images\safety-injection.png"
               className="img-responsive"
               alt=""
             />
@@ -48,7 +48,7 @@ function Safety() {
           </div>
           <div className="safety-section3-part2">
             <img
-              src="src\assets\images\safety-temp.png"
+              src="\images\safety-temp.png"
               className="img-responsive"
               alt=""
             />
@@ -60,7 +60,7 @@ function Safety() {
           </div>
           <div className="safety-section3-part3">
             <img
-              src="src\assets\images\safety-mask.png"
+              src="\images\safety-mask.png"
               className="img-responsive"
               alt=""
             />
